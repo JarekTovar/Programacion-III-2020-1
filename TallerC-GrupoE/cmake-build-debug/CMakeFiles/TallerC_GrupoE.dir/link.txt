@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/TallerC_GrupoE.dir/main.c.o  -o TallerC_GrupoE.exe -Wl,--out-implib,libTallerC_GrupoE.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

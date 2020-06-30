@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/LENOVO/Documents/CLionProjects-2020-1/TallerC-GrupoE/main.c
+stdio.h
+-
+math.h
+-
+string.h
+-
+ctype.h
+-
+stdlib.h
+-
+
