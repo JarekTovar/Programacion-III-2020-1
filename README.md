@@ -1,2 +1,2 @@
-# Taller Colaborativo - Algoritmos en C
+taller-algortimos-en-c
  
